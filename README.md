@@ -23,6 +23,11 @@ It remembers your last searched city so you can check your local (or favorite) w
 ![alt text](image-1.png)
 ![alt text](image-2.png)
 
+## 🎥 Demo Video
+
+[Click to watch the demo video](https://drive.google.com/file/d/1I26Olnt372FccTdzDBf89vKxjug9Tkol/view?usp=sharing)
+
+
 ## How to Run
 ### Option 1 — Standalone App for Windows (Recommended)
 
